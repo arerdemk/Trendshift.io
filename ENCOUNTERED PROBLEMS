@@ -1,1 +1,12 @@
-ENCOUNTERED PROBLEMS
+1- GET TEXT IN SAME CLASS DIFFERENT REFERENCES
+  Every web-page has different dynamic and sequntial things. Somehow, if there are a lot of text in same class, 
+you can identify just simple bracket like grab element in list. (for get second element in list; [1] (beginning with 0)
+
+2- APPEND VALUE IF NOT EXIST
+  In this project some repositories has not some category, you can deternmine just basic if statements. If statement helps to, 
+if scrapping element is avaliable get in code, else dosomething(). For in this case, we decided to "NoInfo" value.
+
+3- CLASS IF NOT EXIST
+  Sometimes automation tool coming from cons like no algorithm accuracy each other. 
+Sometimes count of class is different number and it returns "No Class" error. For handle it, i create if statement in terms of length of class list.
+For example if lenght of class below to 2 write "NoInfo" value.
